@@ -1,17 +1,24 @@
-## 김건우(KunWoo)
+# :smile:김건우(Kunwoo) 
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>  
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/Java-008080?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-329632?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>   
-</p>
-</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPigonhair&count_bg=%23FD53A5&title_bg=%2398847A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigonhair&show_icons=true&theme=radical)   
-</br>
+![건부기's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigonhair&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pigonhair)](https://solved.ac/pigonhair/)
+# :sparkles:TECH STACKS
+### Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pigonhair)](https://solved.ac/pigonhair)
+### Platforms
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+### Operation System
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pigonhairtt@gmail.com)](mailto:pigonhairtt@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dryrain94@naver.com)](mailto:dryrain94@naver.com)
