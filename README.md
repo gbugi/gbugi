@@ -10,3 +10,6 @@
 <img src="https://img.shields.io/badge/Spring-329632?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigonhair&show_icons=true&theme=radical)
