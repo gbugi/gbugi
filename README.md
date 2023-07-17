@@ -39,5 +39,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=appveyor&logo=Linux&logoColor=black)
 
 # :mailbox_with_mail: Contacts   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=appveyor&logo=Gmail&logoColor=white&link=mailto:pigonhairtt@gmail.com)](mailto:pigonhairtt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=appveyor&logo=Gmail&logoColor=white&link=mailto:drybugi@gmail.com)](mailto:drybugi@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=appveyor&logo=Naver&logoColor=white&link=mailto:dryrain94@naver.com)](mailto:dryrain94@naver.com)
